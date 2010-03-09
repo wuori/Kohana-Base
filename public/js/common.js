@@ -1,0 +1,5 @@
+// onReady
+$(document).ready(function() {
+
+});
+
